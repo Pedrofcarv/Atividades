@@ -1,4 +1,4 @@
-﻿using Xunit;
+using Xunit;
 
 namespace ProjetoLogin
 {
@@ -21,3 +21,4 @@ namespace ProjetoLogin
         }
     }
 }
+
